@@ -9,16 +9,9 @@ last_name: Name
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: >
-  Somos um grupo multidisciplinar formado por pesquisadores nas áreas das Engenharias e da Saúde com objetivo de desenvolver sistemas
-  orientados ao ser humano. O grupo desenvolve pesquisa em sistemas robóticos para reabilitação e assistência, estratégias de interação
-  humano-máquina, realidade mista em sistemas ciberfísicos e técnicas avançadas de processamento de sinais e inteligência artificial.
+  Somos um grupo multidisciplinar formado por pesquisadores nas áreas das Engenharias e da Saúde com objetivo de desenvolver sistemas orientados ao ser humano. O grupo desenvolve pesquisa em sistemas robóticos para reabilitação e assistência, estratégias de interação humano-máquina, realidade mista em sistemas ciberfísicos e técnicas avançadas de processamento de sinais e inteligência artificial.
 
-  We are a multidisciplinary group formed by researchers in the fields of Engineering and Health with the aim of developing human-centered
-  systems. The group conducts research in robotic systems for rehabilitation and assistance, human-machine interaction strategies, mixed
-  reality in cyber-physical systems, and advanced signal processing and artificial intelligence techniques.
- # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
+  We are a multidisciplinary group formed by researchers in the fields of Engineering and Health with the aim of developing human-centered systems. The group conducts research in robotic systems for rehabilitation and assistance, human-machine interaction strategies, mixed reality in cyber-physical systems, and advanced signal processing and artificial intelligence techniques.
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
