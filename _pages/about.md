@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Somos um grupo multidisciplinar formado por pesquisadores nas áreas das Engenharias e da Saúde com objetivo de desenvolver sistemas orientados ao ser humano. O grupo desenvolve pesquisa em sistemas robóticos para reabilitação e assistência, estratégias de interação humano-máquina, realidade mista em sistemas ciberfísicos e técnicas avançadas de processamento de sinais e inteligência artificial.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+  We are a multidisciplinary group formed by researchers in the fields of Engineering and Health with the aim of developing human-centered systems. The group conducts research in robotic systems for rehabilitation and assistance, human-machine interaction strategies, mixed reality in cyber-physical systems, and advanced signal processing and artificial intelligence techniques.
