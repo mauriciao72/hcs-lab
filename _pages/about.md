@@ -29,4 +29,5 @@ latest_posts:
 
 Somos um grupo multidisciplinar formado por pesquisadores nas áreas das Engenharias e da Saúde com objetivo de desenvolver sistemas orientados ao ser humano. O grupo desenvolve pesquisa em sistemas robóticos para reabilitação e assistência, estratégias de interação humano-máquina, realidade mista em sistemas ciberfísicos e técnicas avançadas de processamento de sinais e inteligência artificial.
 
+
 We are a multidisciplinary group formed by researchers in the fields of Engineering and Health with the aim of developing human-centered systems. The group conducts research in robotic systems for rehabilitation and assistance, human-machine interaction strategies, mixed reality in cyber-physical systems, and advanced signal processing and artificial intelligence techniques.
